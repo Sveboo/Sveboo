@@ -19,4 +19,4 @@ Higher School of Economics, Bachelor's degree, Software Engineering, 2021 - Pres
 ## Contact:
 
 - Email: sveboo3348@gmai.com
-- LinkedIn: www.linkedin.com/in/svetlana-bolotina-673297294
+- LinkedIn: [Svetlana Bolotina](www.linkedin.com/in/svetlana-bolotina-673297294)
