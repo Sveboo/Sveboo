@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, I'm Sveta 👋
 
-<!--
-**Sveboo/Sveboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the Higher School of Economics and developer specializing in the Go programming language.
 
-Here are some ideas to get you started:
+## Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Go, Python, Java
+- Frameworks and Libraries: gin, echo, viper, testify, mock, mockery, go-swagger
+- Proficient with Docker and Git.
+- Experience with Jenkins, Ansible, and K8s in an educational project.
+- Understanding of network/transport/application layer protocols (e.g., IPv4, TCP, HTTP 1.1/2.0).
+- Currently undergoing courses in data processing and analysis.
+- Contributed to the development of a movie recommendation system in the R language for an educational project.
+
+## Education:
+
+Higher School of Economics, Bachelor's degree, Software Engineering, 2021 - Present
+
+## Contact:
+
+- Email: sveboo3348@gmai.com
+- LinkedIn: www.linkedin.com/in/svetlana-bolotina-673297294
