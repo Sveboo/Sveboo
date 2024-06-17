@@ -4,7 +4,7 @@ I'm a student at the Higher School of Economics and developer specializing in th
 
 ## Skills:
 
-- Programming Languages: Go, Python, Java
+- Programming Languages: Go, Python
 - Frameworks and Libraries: gin, echo, viper, testify, mock, mockery, go-swagger
 - Proficient with Docker and Git.
 - Experience with Jenkins, Ansible, and K8s in an educational project.
